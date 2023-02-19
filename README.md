@@ -6,7 +6,7 @@ Contributors:
 
 * [Sofia Sanchez](https://github.com/sofiasanchez985/greenland), Columbia University
 * [Shengyue Guo](https://github.com/guosy1998), Columbia University
-* [Qazi Ashikin](https://github.com/aizaq1), Columbia University
+* [Qazi Ashikin](https://github.com/qaziashikin), Columbia University
 * [Joel Salzman](https://github.com/joelsalzman), Columbia University
 * [Ben Yang](https://github.com/benplus1/), Columbia University
 
